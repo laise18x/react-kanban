@@ -1,2 +1,2 @@
 # react-kanban
-Created with CodeSandbox
+Projeto disponível [aqui](https://5nf57g.csb.app/)
