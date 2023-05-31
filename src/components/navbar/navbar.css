@@ -1,7 +1,10 @@
 .navbar {
   display: flex;
   background-color: rgba(0, 0, 0, 0.3);
-  padding: 8px;
-  color: white;
+  padding: 1rem;
+  color: #373b44;
   font-weight: bold;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 2rem;
+  margin-bottom: 0.3rem;
 }
